@@ -1,0 +1,251 @@
+id,parentId,type,title,durationSeconds,capacitySeconds,languageCode,languageFamily,era,region,detail,extra
+golden-record,,SECTION,Golden Record,,6600,,,,,,
+side-1,golden-record,SECTION,Side 1,,3300,,,,,,
+sec-images,side-1,SECTION,Encoded Images,,,,,,,"115 images encoded as analogue audio; colour images are three successive frames (R, G, B) the recipient must recombine.",
+img-grp-reference,sec-images,SECTION,Reference and Mathematics,,,,,,,,
+img-001,img-grp-reference,IMAGE,Calibration circle,2,,,,,REFERENCE,NASA,MONO
+img-002,img-grp-reference,IMAGE,Solar location map,2,,,,,REFERENCE,Frank Drake / Cornell,MONO
+img-003,img-grp-reference,IMAGE,Mathematical definitions,2,,,,,SCIENCE,Frank Drake,MONO
+img-004,img-grp-reference,IMAGE,Physical unit definitions,2,,,,,SCIENCE,Frank Drake,MONO
+img-005,img-grp-reference,IMAGE,Solar system parameters,2,,,,,SCIENCE,Frank Drake,MONO
+img-007,img-grp-reference,IMAGE,Solar spectrum,2,,,,,SCIENCE,Hale Observatories,MONO
+img-013,img-grp-reference,IMAGE,Chemical definitions,2,,,,,SCIENCE,Frank Drake,MONO
+img-098,img-grp-reference,IMAGE,X-ray of hand,7,,,,,SCIENCE,Dr. Frank Drake,COLOUR
+img-099,img-grp-reference,IMAGE,Woman with microscope,7,,,,,SCIENCE,UN,COLOUR
+img-108,img-grp-reference,IMAGE,"Radio telescope, Westerbork, Netherlands",7,,,,,SCIENCE,James Blair,COLOUR
+img-109,img-grp-reference,IMAGE,"Radio telescope, Arecibo",7,,,,,SCIENCE,NAIC / Cornell,COLOUR
+img-110,img-grp-reference,IMAGE,"Page of book — Newton, System of the World",2,,,,,SCIENCE,Isaac Newton,MONO
+img-grp-astronomy,sec-images,SECTION,Astronomy,,,,,,,,
+img-006,img-grp-astronomy,IMAGE,The Sun,2,,,,,ASTRONOMY,Hale Observatories,MONO
+img-008,img-grp-astronomy,IMAGE,Mercury,2,,,,,ASTRONOMY,NASA,MONO
+img-009,img-grp-astronomy,IMAGE,Mars,2,,,,,ASTRONOMY,NASA,MONO
+img-010,img-grp-astronomy,IMAGE,Jupiter,2,,,,,ASTRONOMY,NASA,MONO
+img-011,img-grp-astronomy,IMAGE,Earth,7,,,,,ASTRONOMY,NASA,COLOUR
+img-grp-biology,sec-images,SECTION,Biology and the Human Body,,,,,,,,
+img-014,img-grp-biology,IMAGE,"DNA structure, magnified",2,,,,,BIOLOGY,Jon Lomberg,MONO
+img-015,img-grp-biology,IMAGE,DNA structure and replication,2,,,,,BIOLOGY,Jon Lomberg,MONO
+img-016,img-grp-biology,IMAGE,Cells and cell division,2,,,,,BIOLOGY,Turtox / Cambosco,MONO
+img-017,img-grp-biology,IMAGE,Anatomy 1: bone structure,2,,,,,BIOLOGY,World Book Encyclopedia,MONO
+img-018,img-grp-biology,IMAGE,Anatomy 2: muscle structure,2,,,,,BIOLOGY,World Book Encyclopedia,MONO
+img-019,img-grp-biology,IMAGE,Anatomy 3: circulatory system,2,,,,,BIOLOGY,World Book Encyclopedia,MONO
+img-020,img-grp-biology,IMAGE,Anatomy 4: nervous system,2,,,,,BIOLOGY,World Book Encyclopedia,MONO
+img-021,img-grp-biology,IMAGE,Anatomy 5: respiratory system,2,,,,,BIOLOGY,World Book Encyclopedia,MONO
+img-022,img-grp-biology,IMAGE,Anatomy 6: digestive system,2,,,,,BIOLOGY,World Book Encyclopedia,MONO
+img-023,img-grp-biology,IMAGE,Anatomy 7: urogenital system,2,,,,,BIOLOGY,World Book Encyclopedia,MONO
+img-024,img-grp-biology,IMAGE,Anatomy 8: sense organs,2,,,,,BIOLOGY,World Book Encyclopedia,MONO
+img-025,img-grp-biology,IMAGE,Human sex organs,2,,,,,BIOLOGY,Life Science Library,MONO
+img-026,img-grp-biology,IMAGE,Diagram of conception,2,,,,,BIOLOGY,Jon Lomberg,MONO
+img-027,img-grp-biology,IMAGE,Conception,2,,,,,BIOLOGY,Albert Bonniers Forlag,MONO
+img-028,img-grp-biology,IMAGE,Fertilised ovum,2,,,,,BIOLOGY,Albert Bonniers Forlag,MONO
+img-029,img-grp-biology,IMAGE,Fetus diagram,2,,,,,BIOLOGY,Jon Lomberg,MONO
+img-030,img-grp-biology,IMAGE,Fetus,2,,,,,BIOLOGY,Dr. Frank Allan,MONO
+img-051,img-grp-biology,IMAGE,Diagram of vertebrate evolution,2,,,,,BIOLOGY,Jon Lomberg,MONO
+img-grp-earth,sec-images,SECTION,Earth and Nature,,,,,,,,
+img-012,img-grp-earth,IMAGE,"Egypt, Red Sea, Sinai Peninsula and the Nile",7,,,,,EARTH,NASA,COLOUR
+img-038,img-grp-earth,IMAGE,Diagram of continental drift,2,,,,,EARTH,Jon Lomberg,MONO
+img-039,img-grp-earth,IMAGE,Structure of the Earth,2,,,,,EARTH,Jon Lomberg,MONO
+img-040,img-grp-earth,IMAGE,"Heron Island, Great Barrier Reef, Australia",7,,,,,EARTH,Dr. Jay M. Pasachoff,COLOUR
+img-041,img-grp-earth,IMAGE,Seashore,7,,,,,EARTH,Dick Smith,COLOUR
+img-042,img-grp-earth,IMAGE,Snake River and Grand Tetons,7,,,,,EARTH,Ansel Adams,COLOUR
+img-043,img-grp-earth,IMAGE,Sand dunes,7,,,,,EARTH,George Mobley,COLOUR
+img-044,img-grp-earth,IMAGE,Monument Valley,2,,,,,EARTH,Ansel Adams,MONO
+img-045,img-grp-earth,IMAGE,Forest scene with mushrooms,7,,,,,NATURE,Bruce Dale,COLOUR
+img-046,img-grp-earth,IMAGE,Leaf,7,,,,,NATURE,Arthur Herrick,COLOUR
+img-047,img-grp-earth,IMAGE,Fallen leaves,7,,,,,NATURE,Jodi Cobb,COLOUR
+img-048,img-grp-earth,IMAGE,Snowflake over Sequoia,7,,,,,NATURE,R. Sisson / J. Muench,COLOUR
+img-049,img-grp-earth,IMAGE,Tree with daffodils,7,,,,,NATURE,Gardens of Winterthur,COLOUR
+img-050,img-grp-earth,IMAGE,Flying insect with flowers,7,,,,,NATURE,Borne on the Wind,COLOUR
+img-052,img-grp-earth,IMAGE,Seashell (Xancidae),2,,,,,NATURE,Life Nature Library,MONO
+img-053,img-grp-earth,IMAGE,Dolphins,7,,,,,NATURE,Thomas Nebbia,COLOUR
+img-054,img-grp-earth,IMAGE,School of fish,7,,,,,NATURE,David Doubilet,COLOUR
+img-055,img-grp-earth,IMAGE,Tree toad,7,,,,,NATURE,Dave Wickstrom,COLOUR
+img-056,img-grp-earth,IMAGE,Crocodile,7,,,,,NATURE,Peter Beard,COLOUR
+img-057,img-grp-earth,IMAGE,Eagle,7,,,,,NATURE,Donna Grosvenor,COLOUR
+img-058,img-grp-earth,IMAGE,Waterhole,7,,,,,NATURE,Oxford Scientific Films,COLOUR
+img-066,img-grp-earth,IMAGE,Elephant,7,,,,,NATURE,Peter Kunstadter,COLOUR
+img-077,img-grp-earth,IMAGE,Underwater scene with diver and fish,7,,,,,NATURE,Jerry Greenberg,COLOUR
+img-113,img-grp-earth,IMAGE,Sunset with birds,7,,,,,NATURE,David Harvey,COLOUR
+img-grp-humanity,sec-images,SECTION,Humanity,,,,,,,,
+img-031,img-grp-humanity,IMAGE,Diagram of male and female,2,,,,,HUMANITY,Jon Lomberg,MONO
+img-032,img-grp-humanity,IMAGE,Birth,2,,,,,HUMANITY,Wayne Miller,MONO
+img-033,img-grp-humanity,IMAGE,Nursing mother,7,,,,,HUMANITY,UN,COLOUR
+img-034,img-grp-humanity,IMAGE,"Father and daughter, Malaysia",7,,,,,HUMANITY,David Harvey,COLOUR
+img-035,img-grp-humanity,IMAGE,Group of children,7,,,,,HUMANITY,"Ruby Mera, UNICEF",COLOUR
+img-036,img-grp-humanity,IMAGE,Diagram of family ages,2,,,,,HUMANITY,Jon Lomberg,MONO
+img-037,img-grp-humanity,IMAGE,Family portrait,7,,,,,HUMANITY,Nina Leen,COLOUR
+img-059,img-grp-humanity,IMAGE,Jane Goodall and chimps,7,,,,,HUMANITY,Vanne Morris-Goodall,COLOUR
+img-060,img-grp-humanity,IMAGE,Sketch of bushmen,2,,,,,HUMANITY,Jon Lomberg,MONO
+img-061,img-grp-humanity,IMAGE,Bushmen hunters,7,,,,,HUMANITY,R. Farbman,COLOUR
+img-062,img-grp-humanity,IMAGE,Man from Guatemala,7,,,,,HUMANITY,UN,COLOUR
+img-063,img-grp-humanity,IMAGE,Dancer from Bali,7,,,,,HUMANITY,Donna Grosvenor,COLOUR
+img-064,img-grp-humanity,IMAGE,Andean girls,7,,,,,HUMANITY,Joseph Scherschel,COLOUR
+img-067,img-grp-humanity,IMAGE,"Old man with beard and glasses, Turkey",7,,,,,HUMANITY,Jonathan Blair,COLOUR
+img-068,img-grp-humanity,IMAGE,Old man with dog and flowers,7,,,,,HUMANITY,Bruce Baumann,COLOUR
+img-069,img-grp-humanity,IMAGE,Mountain climber,7,,,,,HUMANITY,Gaston Rebuffat,COLOUR
+img-070,img-grp-humanity,IMAGE,Gymnast,7,,,,,HUMANITY,Philip Leonardi,COLOUR
+img-071,img-grp-humanity,IMAGE,Sprinters (Valeri Borzov),7,,,,,HUMANITY,Life Magazine,COLOUR
+img-081,img-grp-humanity,IMAGE,"Demonstration of licking, eating and drinking",7,,,,,HUMANITY,E. Kashi / M. Sullivan,COLOUR
+img-grp-civilisation,sec-images,SECTION,Civilisation and Technology,,,,,,,,
+img-065,img-grp-civilisation,IMAGE,Thai craftsman,7,,,,,CIVILISATION,Dean Conger,COLOUR
+img-072,img-grp-civilisation,IMAGE,Schoolroom,7,,,,,CIVILISATION,UN,COLOUR
+img-073,img-grp-civilisation,IMAGE,Children with globe,7,,,,,CIVILISATION,UN,COLOUR
+img-074,img-grp-civilisation,IMAGE,Cotton harvest,7,,,,,CIVILISATION,Howell Walker,COLOUR
+img-075,img-grp-civilisation,IMAGE,Grape picker,7,,,,,CIVILISATION,David Moore,COLOUR
+img-076,img-grp-civilisation,IMAGE,Supermarket,7,,,,,CIVILISATION,H. Edward Kim,COLOUR
+img-078,img-grp-civilisation,IMAGE,Fishing boat with nets,7,,,,,CIVILISATION,UN,COLOUR
+img-079,img-grp-civilisation,IMAGE,Cooking fish,7,,,,,CIVILISATION,Cooking of Spain and Portugal,COLOUR
+img-080,img-grp-civilisation,IMAGE,Chinese dinner party,7,,,,,CIVILISATION,Michael Rougier,COLOUR
+img-082,img-grp-civilisation,IMAGE,Great Wall of China,7,,,,,CIVILISATION,H. Edward Kim,COLOUR
+img-083,img-grp-civilisation,IMAGE,"House construction, Africa",7,,,,,CIVILISATION,UN,COLOUR
+img-084,img-grp-civilisation,IMAGE,"Construction scene, Amish country",7,,,,,CIVILISATION,William Albert Allard,COLOUR
+img-085,img-grp-civilisation,IMAGE,"House, Africa",7,,,,,CIVILISATION,UN,COLOUR
+img-086,img-grp-civilisation,IMAGE,"House, New England",7,,,,,CIVILISATION,Robert Sisson,COLOUR
+img-087,img-grp-civilisation,IMAGE,"Modern house, Cloudcroft, New Mexico",7,,,,,CIVILISATION,Dr. Frank Drake,COLOUR
+img-088,img-grp-civilisation,IMAGE,House interior with artist and fire,7,,,,,CIVILISATION,Jim Amos,COLOUR
+img-089,img-grp-civilisation,IMAGE,Taj Mahal,7,,,,,CIVILISATION,David Carroll,COLOUR
+img-090,img-grp-civilisation,IMAGE,"English city, Oxford",7,,,,,CIVILISATION,C. S. Lewis / Time-Life,COLOUR
+img-091,img-grp-civilisation,IMAGE,Boston,7,,,,,CIVILISATION,Ted Spiegel,COLOUR
+img-092,img-grp-civilisation,IMAGE,"UN Building, day",7,,,,,CIVILISATION,UN,COLOUR
+img-093,img-grp-civilisation,IMAGE,"UN Building, night",7,,,,,CIVILISATION,UN,COLOUR
+img-094,img-grp-civilisation,IMAGE,Sydney Opera House,7,,,,,CIVILISATION,Mike Long,COLOUR
+img-095,img-grp-civilisation,IMAGE,Artisan with drill,2,,,,,TECHNOLOGY,Frank Hewlett,MONO
+img-096,img-grp-civilisation,IMAGE,Factory interior,7,,,,,TECHNOLOGY,Fred Ward,COLOUR
+img-097,img-grp-civilisation,IMAGE,Museum,7,,,,,CIVILISATION,David Cupp,COLOUR
+img-100,img-grp-civilisation,IMAGE,"Street scene, Asia (Pakistan)",7,,,,,CIVILISATION,UN,COLOUR
+img-101,img-grp-civilisation,IMAGE,"Rush hour traffic, India",7,,,,,CIVILISATION,UN,COLOUR
+img-102,img-grp-civilisation,IMAGE,"Modern highway, Ithaca",7,,,,,TECHNOLOGY,M. Rougier / Time-Life,COLOUR
+img-103,img-grp-civilisation,IMAGE,Golden Gate Bridge,7,,,,,TECHNOLOGY,Ansel Adams,COLOUR
+img-104,img-grp-civilisation,IMAGE,Train,7,,,,,TECHNOLOGY,Gordon Gahan,COLOUR
+img-105,img-grp-civilisation,IMAGE,Airplane in flight,7,,,,,TECHNOLOGY,George Hall,COLOUR
+img-106,img-grp-civilisation,IMAGE,"Airport, Toronto",7,,,,,TECHNOLOGY,George Hunter,COLOUR
+img-107,img-grp-civilisation,IMAGE,Antarctic expedition,7,,,,,CIVILISATION,Steve Martin,COLOUR
+img-111,img-grp-civilisation,IMAGE,Astronaut in space,7,,,,,TECHNOLOGY,NASA,COLOUR
+img-112,img-grp-civilisation,IMAGE,Titan-Centaur launch,7,,,,,TECHNOLOGY,NASA,COLOUR
+img-114,img-grp-civilisation,IMAGE,String quartet (Quartetto Italiano),7,,,,,CIVILISATION,Quartetto Italiano,COLOUR
+img-115,img-grp-civilisation,IMAGE,"Violin with music score (Beethoven, Cavatina)",7,,,,,CIVILISATION,Lynn Rogers,COLOUR
+sec-greetings,side-1,SECTION,Greetings,,,,,,,"55 spoken greetings, ordered from the oldest recorded human languages to the living ones.",
+grt-grp-ancient,sec-greetings,SECTION,Ancient Tongues,,,,,,,Languages already extinct in 1977. The disc opens with the voices humanity has already lost.,
+grt-sux,grt-grp-ancient,GREETING,Sumerian,3,,sux,ISOLATE,ANCIENT,MIDDLE_EAST,Silim-ma ḫe-me-en.,May all be very well.
+grt-akk,grt-grp-ancient,GREETING,Akkadian,3,,akk,AFRO_ASIATIC,ANCIENT,MIDDLE_EAST,Ana kâšunu lu šulmu.,May all be very well.
+grt-hit,grt-grp-ancient,GREETING,Hittite,2,,hit,INDO_EUROPEAN,ANCIENT,MIDDLE_EAST,Šeš-uš aš-šu-li.,Hail.
+grt-arc,grt-grp-ancient,GREETING,Aramaic,2,,arc,AFRO_ASIATIC,ANCIENT,MIDDLE_EAST,Šlām.,Peace.
+grt-lat,grt-grp-ancient,GREETING,Latin,9,,lat,INDO_EUROPEAN,ANCIENT,EUROPE,"Salvete quicumque estis; bonam ergo vos voluntatem habemus, et pacem per astra ferimus.","Greetings to you, whoever you are; we have good will towards you and bring peace across space."
+grt-grc,grt-grp-ancient,GREETING,Greek,8,,grc,INDO_EUROPEAN,ANCIENT,EUROPE,"Χαίρετε, οἵτινες ποτ' ἐστέ· φίλοι γὰρ φίλοις ἐρχόμεθα.","Greetings to you, whoever you are. We come in friendship to those who are friends."
+grt-grp-living,sec-greetings,SECTION,Living Languages,,,,,,,,
+grt-grp-indo-european,grt-grp-living,SECTION,Indo-European,,,,,,,,
+grt-eng,grt-grp-indo-european,GREETING,English,7,,eng,INDO_EUROPEAN,LIVING,EUROPE,Hello from the children of planet Earth.,"Hello from the children of planet Earth. (Spoken by Nick Sagan, age six.)"
+grt-ita,grt-grp-indo-european,GREETING,Italian,3,,ita,INDO_EUROPEAN,LIVING,EUROPE,Tanti auguri e saluti.,Many greetings and good wishes.
+grt-fra,grt-grp-indo-european,GREETING,French,2,,fra,INDO_EUROPEAN,LIVING,EUROPE,Bonjour tout le monde.,Hello everybody.
+grt-deu,grt-grp-indo-european,GREETING,German,3,,deu,INDO_EUROPEAN,LIVING,EUROPE,Herzliche Grüße an alle.,Heartfelt greetings to all.
+grt-spa,grt-grp-indo-european,GREETING,Spanish,3,,spa,INDO_EUROPEAN,LIVING,EUROPE,Hola y saludos a todos.,Hello and greetings to all.
+grt-por,grt-grp-indo-european,GREETING,Portuguese,3,,por,INDO_EUROPEAN,LIVING,EUROPE,Paz e felicidade a todos.,Peace and happiness to all.
+grt-nld,grt-grp-indo-european,GREETING,Dutch,3,,nld,INDO_EUROPEAN,LIVING,EUROPE,Hartelijke groeten aan iedereen.,Heartfelt greetings to everyone.
+grt-swe,grt-grp-indo-european,GREETING,Swedish,8,,swe,INDO_EUROPEAN,LIVING,EUROPE,Hälsningar från en datorprogrammerare i den lilla universitetsstaden Ithaca på planeten Jorden.,Greetings from a computer programmer in the little university town of Ithaca on the planet Earth.
+grt-pol,grt-grp-indo-european,GREETING,Polish,5,,pol,INDO_EUROPEAN,LIVING,EUROPE,"Witajcie, istoty zza światów.","Welcome, human beings from the far reaches of space."
+grt-ces,grt-grp-indo-european,GREETING,Czech,4,,ces,INDO_EUROPEAN,LIVING,EUROPE,"Milí přátelé, přejeme vám vše nejlepší.","Dear friends, we wish you the best."
+grt-rus,grt-grp-indo-european,GREETING,Russian,3,,rus,INDO_EUROPEAN,LIVING,EUROPE,"Здравствуйте, приветствую вас!",Be healthy — I greet you.
+grt-ukr,grt-grp-indo-european,GREETING,Ukrainian,8,,ukr,INDO_EUROPEAN,LIVING,EUROPE,"Вітаємо вас із нашого світу, бажаємо щастя, здоров'я і многая літа.","We are sending greetings from our world, wishing you happiness, good health and many years."
+grt-srp,grt-grp-indo-european,GREETING,Serbian,5,,srp,INDO_EUROPEAN,LIVING,EUROPE,Желимо вам све најбоље са наше планете.,We wish you all the best from our planet.
+grt-ron,grt-grp-indo-european,GREETING,Romanian,6,,ron,INDO_EUROPEAN,LIVING,EUROPE,"Salutări la toată lumea. Vă dorim sănătate, fericire și pace.","Greetings to everybody. We wish you good health, happiness and peace."
+grt-cym,grt-grp-indo-european,GREETING,Welsh,4,,cym,INDO_EUROPEAN,LIVING,EUROPE,Iechyd da i chwi yn awr ac yn oesoedd.,Good health to you now and forever.
+grt-hye,grt-grp-indo-european,GREETING,Armenian,5,,hye,INDO_EUROPEAN,LIVING,MIDDLE_EAST,Ողջո՜յն բոլոր անոնց որ գոյութիւն ունին տիեզերքին մէջ։,"To all those who exist in the universe, greetings."
+grt-fas,grt-grp-indo-european,GREETING,Persian,4,,fas,INDO_EUROPEAN,LIVING,MIDDLE_EAST,درود بر ساکنان آسمان‌های دور.,Hello to the residents of far skies.
+grt-hin,grt-grp-indo-european,GREETING,Hindi,4,,hin,INDO_EUROPEAN,LIVING,SOUTH_ASIA,"नमस्ते, इस पृथ्वी के निवासियों की ओर से नमस्कार।",Greetings from the inhabitants of this world.
+grt-urd,grt-grp-indo-european,GREETING,Urdu,8,,urd,INDO_EUROPEAN,LIVING,SOUTH_ASIA,السلام علیکم۔ ہم زمین کے باشندے آپ کو سلام بھیجتے ہیں۔,"Peace be upon you. We, the inhabitants of this Earth, send our greetings to you."
+grt-ben,grt-grp-indo-european,GREETING,Bengali,4,,ben,INDO_EUROPEAN,LIVING,SOUTH_ASIA,নমস্কার। বিশ্বে শান্তি হোক।,Hello! Let there be peace everywhere.
+grt-pan,grt-grp-indo-european,GREETING,Punjabi,5,,pan,INDO_EUROPEAN,LIVING,SOUTH_ASIA,ਜੀ ਆਇਆਂ ਨੂੰ। ਤੁਹਾਨੂੰ ਮਿਲ ਕੇ ਖੁਸ਼ੀ ਹੋਈ।,Welcome home. It is a pleasure to receive you.
+grt-guj,grt-grp-indo-european,GREETING,Gujarati,6,,guj,INDO_EUROPEAN,LIVING,SOUTH_ASIA,પૃથ્વી પરના માનવીના પ્રણામ. કૃપા કરી સંપર્ક કરો.,Greetings from a human being of the Earth. Please contact.
+grt-mar,grt-grp-indo-european,GREETING,Marathi,6,,mar,INDO_EUROPEAN,LIVING,SOUTH_ASIA,नमस्कार. या पृथ्वीतील लोक तुम्हाला नमस्कार करतात.,Greetings. The people of this Earth send you their good wishes.
+grt-nep,grt-grp-indo-european,GREETING,Nepali,5,,nep,INDO_EUROPEAN,LIVING,SOUTH_ASIA,पृथ्वीवासीबाट शान्तिमय भविष्यको शुभकामना।,Wishing you a peaceful future from the earthlings.
+grt-ori,grt-grp-indo-european,GREETING,Odia,8,,ori,INDO_EUROPEAN,LIVING,SOUTH_ASIA,ସୂର୍ଯ୍ୟ ନାମକ ତାରାର ତୃତୀୟ ଗ୍ରହ ପୃଥିବୀରୁ ବିଶ୍ୱବାସୀଙ୍କୁ ନମସ୍କାର।,Greetings to the inhabitants of the universe from the third planet Earth of the star Sun.
+grt-raj,grt-grp-indo-european,GREETING,Rajasthani,7,,raj,INDO_EUROPEAN,LIVING,SOUTH_ASIA,"थाने सगळा ने राम राम। म्हे अठै राजी हां, थे बठै राजी रहो।",Hello to everyone. We are happy here and you be happy there.
+grt-sin,grt-grp-indo-european,GREETING,Sinhala,4,,sin,INDO_EUROPEAN,LIVING,SOUTH_ASIA,ආයුබෝවන්. සුබ පැතුම්.,Wishing you a long life. Best wishes.
+grt-grp-afro-asiatic,grt-grp-living,SECTION,Afro-Asiatic,,,,,,,,
+grt-heb,grt-grp-afro-asiatic,GREETING,Hebrew,2,,heb,AFRO_ASIATIC,LIVING,MIDDLE_EAST,שלום.,Peace.
+grt-ara,grt-grp-afro-asiatic,GREETING,Arabic,8,,ara,AFRO_ASIATIC,LIVING,MIDDLE_EAST,تحياتنا للأصدقاء في النجوم. يا ليت يجمعنا الزمان.,Greetings to our friends in the stars. We wish that we will meet you someday.
+grt-grp-sino-tibetan,grt-grp-living,SECTION,Sino-Tibetan,,,,,,,,
+grt-cmn,grt-grp-sino-tibetan,GREETING,Mandarin Chinese,9,,cmn,SINO_TIBETAN,LIVING,EAST_ASIA,各位都好吧？我們都很想念你們，有空請到這兒來玩。,Hope everyone's well. We are thinking about you all. Please come here to visit when you have time.
+grt-yue,grt-grp-sino-tibetan,GREETING,Cantonese,6,,yue,SINO_TIBETAN,LIVING,EAST_ASIA,各位好嗎？祝各位平安、健康、快樂。,"Hi. How are you? Wish you peace, health and happiness."
+grt-nan,grt-grp-sino-tibetan,GREETING,Hokkien (Amoy),9,,nan,SINO_TIBETAN,LIVING,EAST_ASIA,太空朋友，恁好。恁食飽未？有閒著來阮遮坐。,"Friends of space, how are you all? Have you eaten yet? Come visit us if you have time."
+grt-wuu,grt-grp-sino-tibetan,GREETING,Wu Chinese,3,,wuu,SINO_TIBETAN,LIVING,EAST_ASIA,祝侬大家好。,Best wishes to you all.
+grt-mya,grt-grp-sino-tibetan,GREETING,Burmese,3,,mya,SINO_TIBETAN,LIVING,SOUTHEAST_ASIA,နေကောင်းလား။,Are you well?
+grt-grp-niger-congo,grt-grp-living,SECTION,Niger-Congo,,,,,,,,
+grt-nya,grt-grp-niger-congo,GREETING,Nyanja,5,,nya,NIGER_CONGO,LIVING,AFRICA,"Mudzuka bwanji, anthu a pa mapulaneti ena?",How are all you people of other planets?
+grt-lug,grt-grp-niger-congo,GREETING,Luganda,7,,lug,NIGER_CONGO,LIVING,AFRICA,Mubeere n'emirembe. Katonda abawe emirembe bulijjo.,Greetings to all peoples of the universe. God give you peace always.
+grt-nso,grt-grp-niger-congo,GREETING,Sotho,4,,nso,NIGER_CONGO,LIVING,AFRICA,"Re a le dumedisa, bagolo.","We greet you, O great ones."
+grt-zul,grt-grp-niger-congo,GREETING,Nguni (Zulu),5,,zul,NIGER_CONGO,LIVING,AFRICA,"Siyanibingelela, bakhulu. Siyaninqwenelela impilo ende.","We greet you, great ones. We wish you longevity."
+grt-ilb,grt-grp-niger-congo,GREETING,Ila,4,,ilb,NIGER_CONGO,LIVING,AFRICA,"Mwabuka buti, bantu boonse?",We wish all of you well.
+grt-grp-dravidian,grt-grp-living,SECTION,Dravidian,,,,,,,,
+grt-tel,grt-grp-dravidian,GREETING,Telugu,5,,tel,DRAVIDIAN,LIVING,SOUTH_ASIA,నమస్కారం. తెలుగు వారి శుభాకాంక్షలు.,Greetings. Best wishes from the Telugu-speaking people.
+grt-kan,grt-grp-dravidian,GREETING,Kannada,5,,kan,DRAVIDIAN,LIVING,SOUTH_ASIA,ನಮಸ್ಕಾರ. ಕನ್ನಡಿಗರ ಪರವಾಗಿ ಶುಭಾಶಯಗಳು.,"Greetings. On behalf of Kannada-speaking people, good wishes."
+grt-grp-other,grt-grp-living,SECTION,Other Families,,,,,,,,
+grt-hun,grt-grp-other,GREETING,Hungarian,8,,hun,URALIC,LIVING,EUROPE,Üdvözletet küldünk magyar nyelven minden békeszerető lénynek a Világegyetemen.,We are sending greetings in Hungarian to all peace-loving beings in the Universe.
+grt-tur,grt-grp-other,GREETING,Turkish,8,,tur,TURKIC,LIVING,MIDDLE_EAST,"Sayın Türkçe bilen arkadaşlarımız, sabah şerifleriniz hayrolsun.","Dear Turkish-speaking friends, may the honours of the morning be upon your heads."
+grt-jpn,grt-grp-other,GREETING,Japanese,3,,jpn,JAPONIC,LIVING,EAST_ASIA,こんにちは。お元気ですか。,Hello? How are you?
+grt-kor,grt-grp-other,GREETING,Korean,3,,kor,KOREANIC,LIVING,EAST_ASIA,안녕하세요.,How are you?
+grt-vie,grt-grp-other,GREETING,Vietnamese,3,,vie,AUSTROASIATIC,LIVING,SOUTHEAST_ASIA,Chân thành gửi tới các bạn lời chào thân ái.,Sincere words to you.
+grt-tha,grt-grp-other,GREETING,Thai,5,,tha,KRA_DAI,LIVING,SOUTHEAST_ASIA,สวัสดีค่ะ พวกเราชาวโลกขอส่งความปรารถนาดีมายังท่าน,We in this world send you our good will.
+grt-ind,grt-grp-other,GREETING,Indonesian,6,,ind,AUSTRONESIAN,LIVING,SOUTHEAST_ASIA,"Selamat malam hadirin sekalian. Selamat berpisah, sampai bertemu lagi di lain waktu.",Good night ladies and gentlemen. Goodbye and see you next time.
+grt-que,grt-grp-other,GREETING,Quechua,6,,que,QUECHUAN,LIVING,AMERICAS,Kay pachamanta llapa runakunaman napaykuykichik.,"Hello to everybody from this Earth, in the Quechua language."
+sec-sounds,side-1,SECTION,Sounds of Earth,,,,,,,"An acoustic portrait of the planet, from geology to a human kiss.",
+snd-grp-planet,sec-sounds,SECTION,The Planet,,,,,,,,
+snd-01,snd-grp-planet,EARTH_SOUND,Music of the Spheres,42,,,,,COSMIC,Kepler's Harmonices Mundi realised as planetary orbital frequencies,
+snd-02,snd-grp-planet,EARTH_SOUND,"Volcanoes, Earthquake, Thunder",51,,,,,GEOPHYSICAL,Raw planetary energy,
+snd-03,snd-grp-planet,EARTH_SOUND,Mud Pots,27,,,,,GEOPHYSICAL,Geothermal bubbling,
+snd-04,snd-grp-planet,EARTH_SOUND,"Wind, Rain, Surf",55,,,,,GEOPHYSICAL,The signature of a water world,
+snd-21,snd-grp-planet,EARTH_SOUND,"Life Signs, Pulsar",56,,,,,COSMIC,"An EEG of a young woman in meditation, then a pulsar - mind and cosmos",
+snd-grp-life,sec-sounds,SECTION,Non-Human Life,,,,,,,,
+snd-05,snd-grp-life,EARTH_SOUND,"Crickets, Frogs",33,,,,,ANIMAL,Night chorus,
+snd-06,snd-grp-life,EARTH_SOUND,"Birds, Hyena, Elephant",46,,,,,ANIMAL,Savannah soundscape,
+snd-07,snd-grp-life,EARTH_SOUND,Chimpanzee,21,,,,,ANIMAL,Our nearest relative,
+snd-08,snd-grp-life,EARTH_SOUND,Wild Dog,19,,,,,ANIMAL,Before domestication,
+snd-grp-human,sec-sounds,SECTION,Human Life,,,,,,,,
+snd-09,snd-grp-human,EARTH_SOUND,"Footsteps, Heartbeats, Laughter",38,,,,,HUMAN,"A body, a pulse, a joy",
+snd-10,snd-grp-human,EARTH_SOUND,"Fire, Speech",41,,,,,HUMAN,The two technologies that made us,
+snd-11,snd-grp-human,EARTH_SOUND,The First Tools,26,,,,,HUMAN,Stone striking stone,
+snd-12,snd-grp-human,EARTH_SOUND,Tame Dog,24,,,,,HUMAN,After domestication - the first alliance,
+snd-20,snd-grp-human,EARTH_SOUND,"Kiss, Mother and Child",39,,,,,HUMAN,Tenderness,
+snd-grp-machine,sec-sounds,SECTION,Machines,,,,,,,,
+snd-13,snd-grp-machine,EARTH_SOUND,"Herding Sheep, Blacksmith, Sawing",49,,,,,TECHNOLOGICAL,Agriculture and metal,
+snd-14,snd-grp-machine,EARTH_SOUND,"Tractor, Riveter",35,,,,,TECHNOLOGICAL,Industry,
+snd-15,snd-grp-machine,EARTH_SOUND,"Morse Code, Ships",38,,,,,TECHNOLOGICAL,Signals across distance,
+snd-16,snd-grp-machine,EARTH_SOUND,Horse and Cart,28,,,,,TECHNOLOGICAL,Animal-powered transport,
+snd-17,snd-grp-machine,EARTH_SOUND,Train,31,,,,,TECHNOLOGICAL,Steam whistle,
+snd-18,snd-grp-machine,EARTH_SOUND,"Truck, Tractor, Bus, Auto",37,,,,,TECHNOLOGICAL,Combustion,
+snd-19,snd-grp-machine,EARTH_SOUND,"F-111 Flyby, Saturn V Lift-off",44,,,,,TECHNOLOGICAL,Leaving the ground,
+sec-music-side1,side-1,SECTION,Music (part 1),,,,,,,,
+mus-s1-classical,sec-music-side1,SECTION,Western Classical,,,,,,,,
+mus-01,mus-s1-classical,MUSIC,"Brandenburg Concerto No. 2 in F major, First Movement",280,,,,,EUROPE,Johann Sebastian Bach,"Munich Bach Orchestra, Karl Richter (cond.)"
+mus-s1-traditional,sec-music-side1,SECTION,Traditional and Folk,,,,,,,,
+mus-02,mus-s1-traditional,MUSIC,"Ketawang: Puspawarna (""Kinds of Flowers"")",283,,,,,ASIA,Javanese court gamelan,"Pura Paku Alaman Palace Orchestra, rec. Robert Brown"
+mus-03,mus-s1-traditional,MUSIC,Cengunmé (percussion),128,,,,,AFRICA,Senegalese traditional,Rec. Charles Duvelle
+mus-04,mus-s1-traditional,MUSIC,Alima Song (Pygmy girls' initiation song),56,,,,,AFRICA,Mbuti traditional,Rec. Colin Turnbull
+mus-05,mus-s1-traditional,MUSIC,"Barnumbirr (""Morning Star"") and Moikoi Song",86,,,,,OCEANIA,Aboriginal Australian traditional,"Tom Djawa, Mudpo, Waliparu; rec. Sandra LeBrun Holmes"
+mus-06,mus-s1-traditional,MUSIC,El Cascabel,194,,,,,AMERICAS,Lorenzo Barcelata,Lorenzo Barcelata and the Mariachi México
+mus-08,mus-s1-traditional,MUSIC,Mariuamangɨ (men's house song),80,,,,,OCEANIA,New Guinea traditional,Rec. Robert MacLennan
+mus-09,mus-s1-traditional,MUSIC,"Tsuru No Sugomori (""Crane's Nest""), shakuhachi",291,,,,,ASIA,Japanese traditional,Goro Yamaguchi
+mus-13,mus-s1-traditional,MUSIC,Roncadoras y Tambor (panpipes and drum),52,,,,,AMERICAS,Peruvian traditional,"Collected by Casa de la Cultura, Lima"
+mus-s1-popular,sec-music-side1,SECTION,Modern Popular,,,,,,,,
+mus-07,mus-s1-popular,MUSIC,Johnny B. Goode,158,,,,,AMERICAS,Chuck Berry,Chuck Berry
+side-2,golden-record,SECTION,Side 2,,3300,,,,,,
+sec-music-side2,side-2,SECTION,Music (part 2),,,,,,,,
+mus-s2-classical,sec-music-side2,SECTION,Western Classical,,,,,,,,
+mus-10,mus-s2-classical,MUSIC,"Gavotte en rondeaux, Partita No. 3 in E major for Violin",175,,,,,EUROPE,Johann Sebastian Bach,Arthur Grumiaux
+mus-11,mus-s2-classical,MUSIC,"Die Zauberflöte: Queen of the Night aria, No. 14",175,,,,,EUROPE,Wolfgang Amadeus Mozart,"Edda Moser; Bavarian State Opera, Wolfgang Sawallisch (cond.)"
+mus-16,mus-s2-classical,MUSIC,Le Sacre du Printemps: Sacrificial Dance,275,,,,,EUROPE,Igor Stravinsky,"Columbia Symphony Orchestra, Igor Stravinsky (cond.)"
+mus-17,mus-s2-classical,MUSIC,"The Well-Tempered Clavier, Book II: Prelude and Fugue in C major, No. 1",288,,,,,EUROPE,Johann Sebastian Bach,"Glenn Gould, piano"
+mus-18,mus-s2-classical,MUSIC,"Symphony No. 5 in C minor, First Movement",440,,,,,EUROPE,Ludwig van Beethoven,"Philharmonia Orchestra, Otto Klemperer (cond.)"
+mus-21,mus-s2-classical,MUSIC,"The Fairie Round, from Paueans, Galliards, Almains",77,,,,,EUROPE,Anthony Holborne,"Early Music Consort of London, David Munrow (dir.)"
+mus-25,mus-s2-classical,MUSIC,Jaat Kahan Ho (raga Bhairavi),210,,,,,ASIA,Indian classical,Kesarbai Kerkar
+mus-27,mus-s2-classical,MUSIC,"String Quartet No. 13 in B-flat major, Op. 130: Cavatina",397,,,,,EUROPE,Ludwig van Beethoven,Budapest String Quartet
+mus-s2-traditional,sec-music-side2,SECTION,Traditional and Folk,,,,,,,,
+mus-12,mus-s2-traditional,MUSIC,Tchakrulo (choral),138,,,,,EUROPE,Georgian traditional,Collected by Radio Moscow
+mus-15,mus-s2-traditional,MUSIC,Muğam (bagpipes),150,,,,,ASIA,Azerbaijani traditional,Kamil Jalilov; rec. Radio Moscow
+mus-19,mus-s2-traditional,MUSIC,Izlel je Delyo Hajdutin,299,,,,,EUROPE,Bulgarian traditional,Valya Balkanska
+mus-20,mus-s2-traditional,MUSIC,Night Chant (Navajo),57,,,,,AMERICAS,Navajo traditional,"Ambrose Roan Horse, Chester Roan, Tom Roan; rec. Willard Rhodes"
+mus-22,mus-s2-traditional,MUSIC,Panpipes,72,,,,,OCEANIA,Solomon Islands traditional,Collected by Solomon Islands Broadcasting Service
+mus-23,mus-s2-traditional,MUSIC,Wedding Song,38,,,,,AMERICAS,Peruvian traditional,Rec. John Cohen
+mus-24,mus-s2-traditional,MUSIC,"Liu Shui (""Flowing Streams""), guqin",457,,,,,ASIA,Chinese traditional,Guan Pinghu
+mus-s2-popular,sec-music-side2,SECTION,Modern Popular,,,,,,,,
+mus-14,mus-s2-popular,MUSIC,Melancholy Blues,185,,,,,AMERICAS,Marty Bloom / Walter Melrose,Louis Armstrong and his Hot Seven
+mus-26,mus-s2-popular,MUSIC,"Dark Was the Night, Cold Was the Ground",195,,,,,AMERICAS,Blind Willie Johnson,Blind Willie Johnson

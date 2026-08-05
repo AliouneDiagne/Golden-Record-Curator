@@ -1,0 +1,17 @@
+# Build
+target/
+*.class
+*.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Runtime / OS
+*.log
+.DS_Store
+Thumbs.db
+
+# Materiale di lavoro, non fa parte del progetto
+solo_sorgenti.txt
