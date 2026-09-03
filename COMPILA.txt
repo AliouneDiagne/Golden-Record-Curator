@@ -1,0 +1,28 @@
+GOLDEN RECORD CURATOR - come eseguirlo
+=======================================
+
+CON MAVEN
+    mvn clean package
+    java -cp target/classes it.aliounediagne.epicode.goldenrecord.App
+
+SENZA MAVEN (nessuna dipendenza a runtime)
+    javac -encoding UTF-8 -d target/classes $(find src/main/java -name "*.java")
+    java -cp target/classes it.aliounediagne.epicode.goldenrecord.App
+
+IMPORTANTE: lancia il programma dalla cartella del progetto, perche' cerca
+data/voyager-1977.csv e src/main/resources/disc.properties.
+
+DEMO CONSIGLIATA (in quest'ordine)
+    load
+    tree
+    budget
+    play ita
+    validate
+    curate coverage
+    load ../../etc/passwd      <- rifiutato, nessun crash
+    exit
+
+LE DUE VERIFICHE DA MOSTRARE AL PROFESSORE
+(pattern targeted: matchano SOLO chiamate, non commenti che le descrivono)
+    grep -rEn '\.printStackTrace\('  src/main/java     -> nessun risultato
+    grep -rEn 'System\.out\.print'   src/main/java     -> solo ConsoleWriter.java

@@ -17,6 +17,23 @@
     modelled on the Voyager Golden Record of 1977.
   </description>
 
+  <url>https://github.com/AliouneDiagne/Golden-Record-Curator</url>
+
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>https://opensource.org/licenses/MIT</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+
+  <developers>
+    <developer>
+      <name>Alioune Diagne</name>
+      <url>https://github.com/AliouneDiagne</url>
+    </developer>
+  </developers>
+
   <properties>
     <maven.compiler.source>11</maven.compiler.source>
     <maven.compiler.target>11</maven.compiler.target>
